@@ -12,16 +12,22 @@ Sou estudante de **Ciência da Computação no Instituto Mauá de Tecnologia** (
 - 🌱 **Open-Source:** Repositórios acadêmicos como *O Semeador*, *S3-Site-MauaEsports* e *S4-Poliedro-Sistema-Para-Professores*.
 
 ### 🛠️ Minha Stack Tecnológica
-- **Linguagens:** Python, Java, JavaScript, C, R, HTML/CSS
-- **Frameworks & Plataformas:** React Native, Node.js, Express, Vercel, Expo
-- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB, Supabase
-- **Ferramentas:** Git Bash, PowerShell, VS Code
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,r,html,css,react,nodejs,express,postgres,mysql,mongodb,supabase,vercel,git,vscode&perline=10" alt="Minhas Habilidades" />
+</p>
 
-### 📊 Minhas Estatísticas
+### 📊 Minhas Estatísticas e Contribuições
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeVianaFim&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVianaFim&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150"/>
 </p>
+
+<!-- Animação da Cobrinha -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeVianaFim/GuilhermeVianaFim/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeVianaFim/GuilhermeVianaFim/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuilhermeVianaFim/GuilhermeVianaFim/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-viana-fim-10887a293)
